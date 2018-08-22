@@ -8,6 +8,7 @@ Are you afraid of your build tool? Fret no more. Come learn the basics of Webpac
 
 - `0-initial-state` - Basic index.html page that loads Lodash and the src/index.js script
 - `1-hello-webpack` - Transforms the basic application into one that maps dependencies using the default Webpack setup
+- `2-custom-config` - Adds a custom webpack configuration for the `entry` and `output` properties as well as the npm build script
 
 ## Resources
 
