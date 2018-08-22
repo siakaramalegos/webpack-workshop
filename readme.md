@@ -1,8 +1,16 @@
-# Webpack Workshop Slides and Demo
+# Webpack Workshop
 
 Are you afraid of your build tool? Fret no more. Come learn the basics of Webpack, using the new version 4. We'll learn about the new features such as sensible defaults as well as the core features. During this workshop, we will build a simple application using JavaScript, HTML, CSS, and images to understand all parts of setting up the build tool.
 
 ## Webpack Workshop Demo
+
+All demo code is in this repo with each step in the workshop represented by a branch in the repo. Make sure you pull all branches.
+
+During the workshop, start with the first step and attempt to perform the exercises for the follow step. If you cannot finish in time or have too many errors, feel free to checkout the next step and run `npm install` to add any new packages for that step.
+
+### Slides
+
+Slides can be found [here](https://siakaramalegos.github.io/webpack-workshop/).
 
 ### Branches by Step
 
