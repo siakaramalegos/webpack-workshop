@@ -6,7 +6,7 @@ Are you afraid of your build tool? Fret no more. Come learn the basics of Webpac
 
 All demo code is in this repo with each step in the workshop represented by a branch in the repo. Make sure you pull all branches.
 
-During the workshop, start with the first step and attempt to perform the exercises for the follow step. If you cannot finish in time or have too many errors, feel free to checkout the next step and run `npm install` to add any new packages for that step.
+During the workshop, start with the first step and attempt to perform the exercises for the following step. If you cannot finish in time or have too many errors, feel free to checkout the next step and run `npm install` to add any new packages for that step.
 
 ### Slides
 
