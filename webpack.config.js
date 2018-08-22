@@ -25,6 +25,11 @@ module.exports = {
       },
     ]
   },
+  devServer: {
+    stats: 'errors-only', // show only errors
+    open: true, // auto open the page in browser
+    overlay: true, // show errors in browser
+  },
   plugins: [
     new CleanWebpackPlugin(['build']),
     new HtmlWebpackPlugin({ title: 'Fun with Webpack' }),
