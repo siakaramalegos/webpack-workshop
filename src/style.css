@@ -1,7 +1,18 @@
 body {
-  background-color: lightpink;
+  background: url('./jeremy-thomas-99326-unsplash.jpg') center center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  padding: 100px;
+  font-family: Georgia, serif;
 }
 
 h1 {
-  color: rebeccapurple;
+  color: white;
+  font-size: 64px;
+}
+
+a {
+  position: absolute;
+  bottom: 0;
+  right: 20px;
 }
