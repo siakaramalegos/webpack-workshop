@@ -1,3 +1,5 @@
+import _ from 'lodash'
+
 function heading() {
   let element = document.createElement('h1');
 
