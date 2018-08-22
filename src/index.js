@@ -1,9 +1,7 @@
 import _ from 'lodash'
 
 function heading() {
-  let element = document.createElement('h1');
-
-  // Lodash, currently included via a script, is required for this line to work
+  const element = document.createElement('h1');
   element.innerHTML = _.capitalize('hello webpack!');
 
   return element;
