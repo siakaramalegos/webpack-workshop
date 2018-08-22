@@ -1,10 +1,10 @@
-import _ from 'lodash'
+import capitalize from 'lodash/capitalize'
 import './style.css'
 import angryUnicorn from './angry_unicorn.jpg'
 
 const heading = () => {
   const element = document.createElement('h1');
-  element.innerHTML = _.capitalize('hello webpack!');
+  element.innerHTML = capitalize('hello webpack!');
   return element;
 }
 
