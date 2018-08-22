@@ -1,4 +1,5 @@
 import _ from 'lodash'
+import './style.css'
 
 function heading() {
   let element = document.createElement('h1');
