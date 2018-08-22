@@ -10,6 +10,7 @@ Are you afraid of your build tool? Fret no more. Come learn the basics of Webpac
 - `1-hello-webpack` - Transforms the basic application into one that maps dependencies using the default Webpack setup
 - `2-custom-config` - Adds a custom webpack configuration for the `entry` and `output` properties as well as the npm build script
 - `3-css-loader` - Adds CSS and a CSS loader in the Webpack config
+- `4-image-loader` - Adds images and `file-loader` to handle images in the Webpack config
 
 ## Resources
 
