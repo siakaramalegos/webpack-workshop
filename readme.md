@@ -11,6 +11,7 @@ Are you afraid of your build tool? Fret no more. Come learn the basics of Webpac
 - `2-custom-config` - Adds a custom webpack configuration for the `entry` and `output` properties as well as the npm build script
 - `3-css-loader` - Adds CSS and a CSS loader in the Webpack config
 - `4-image-loader` - Adds images and `file-loader` to handle images in the Webpack config
+- `5-html-plugin` - programmatically creates HTML files using webpack plugins
 
 ## Resources
 
