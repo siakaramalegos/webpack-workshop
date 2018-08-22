@@ -23,6 +23,10 @@ module.exports = {
           'file-loader',
         ]
       },
+      {
+        test: /\.js$/,
+        use: 'babel-loader'
+      }
     ]
   },
   devServer: {

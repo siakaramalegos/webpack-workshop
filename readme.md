@@ -13,6 +13,7 @@ Are you afraid of your build tool? Fret no more. Come learn the basics of Webpac
 - `4-image-loader` - Adds images and `file-loader` to handle images in the Webpack config
 - `5-html-plugin` - Programmatically creates HTML files using webpack plugins
 - `6-better-env` - Add mode to our production script, install webpack-dev-server, and clean up our build folder
+- `7-babel` - Adds Babel to transpile ES2015 code to ES5 for older browsers
 
 ## Resources
 
