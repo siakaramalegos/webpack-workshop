@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="./css/theme/style.css" id="theme">
   <link rel="stylesheet" href="./css/highlight/zenburn.css">
   <link rel="stylesheet" href="./css/print/paper.css" type="text/css" media="print">
+
 </head>
 
 <body>
@@ -15,6 +16,20 @@
   <div class="reveal">
     <div class="slides">
       <section>
+        <section data-markdown>
+          <script type="text/template">
+
+## Getting to Know Webpack 4
+
+**Do now:**
+
+1. Clone the repo: https://github.com/siakaramalegos/webpack-workshop
+2. `cd webpack-workshop`
+3. `npm install` now in case the internet is spotty later.
+4. Pull all branches (each branch is a different exercise).
+
+</script>
+        </section>
         <section data-markdown>
           <script type="text/template">
 
@@ -39,9 +54,24 @@
 
 Webpack is a static module bundler for modern JavaScript applications.
 
-<aside class="notes"><p>It internally builds a dependency graph which maps every module your project needs and generates one or more bundles.
-<!-- ADD BENEFITS --></p>
+<aside class="notes"><p>It internally builds a dependency graph which maps every module your project needs and generates one or more bundles.</p>
 </aside></script>
+        </section>
+        <section data-markdown>
+          <script type="text/template">
+
+# Why Webpack?
+
+<ul class="plus-minus">
+  <li class="plus">Dependency management!</li>
+  <li class="plus">Many features and options</li>
+  <li class="plus">Hot reloading</li>
+  <li class="minus">Configuration can be intimidating</li>
+</ul>
+
+<small>https://da-14.com/blog/gulp-vs-grunt-vs-webpack-comparison-build-tools-task-runners</small>
+
+</script>
         </section>
         <section data-markdown>
           <script type="text/template">
