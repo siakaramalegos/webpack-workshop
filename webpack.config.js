@@ -38,6 +38,6 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(['build']),
     new HtmlWebpackPlugin({ title: 'Fun with Webpack' }),
-    // new BundleAnalyzerPlugin({ analyzerMode: 'static' }),
+    new BundleAnalyzerPlugin({ analyzerMode: 'static' }),
   ]
 };

@@ -1,4 +1,4 @@
-import capitalize from 'lodash/capitalize'
+import {capitalize} from 'lodash'
 import './style.css'
 import angryUnicorn from './angry_unicorn.jpg'
 

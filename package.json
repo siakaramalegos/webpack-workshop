@@ -11,19 +11,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "clean-webpack-plugin": "^0.1.19",
-    "css-loader": "^1.0.0",
+    "css-loader": "^1.0.1",
     "file-loader": "^2.0.0",
     "html-webpack-plugin": "^3.2.0",
     "style-loader": "^0.22.1",
-    "webpack": "^4.17.1",
+    "webpack": "^4.29.6",
     "webpack-bundle-analyzer": "^2.13.1",
-    "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.5"
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
   }
 }
